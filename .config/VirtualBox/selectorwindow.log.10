@@ -1,0 +1,21 @@
+00:00:00.281665 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.281666 Log opened 2023-11-21T17:21:15.862137000Z
+00:00:00.281666 Build Type: release
+00:00:00.281667 OS Product: Linux
+00:00:00.281667 OS Release: 6.6.1-arch1-1
+00:00:00.281667 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 08 Nov 2023 16:05:38 +0000
+00:00:00.281680 DMI Product Name: 82RF
+00:00:00.281683 DMI Product Version: Legion 5 Pro 16IAH7H
+00:00:00.281686 Firmware type: UEFI
+00:00:00.282269 Secure Boot: Disabled
+00:00:00.282303 Host RAM: 31822MB (31.0GB) total, 31144MB (30.4GB) available
+00:00:00.282304 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.282305 Process ID: 1672
+00:00:00.282305 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.282315 Qt version: 5.15.11
+00:00:00.282926 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.288281 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.572113 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 12x59 x 1308x1525
+00:00:00.577829 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:11.881982 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:00.901653 GUI: UIMediumEnumerator: Medium-enumeration finished!
